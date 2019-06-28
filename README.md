@@ -7,3 +7,5 @@ When you run it if Vigor is a fixer for you just do two missions for him, go int
 If he isn't rescue Piper, talk to him,he'll look for a picture of the box, as you leave the room Vigor should about being a fixer for you. Once he is see above.
 
 Of course all this assumes I didn't screw up. This is NOT even close to a full story, it's just the next part.
+
+Installation just dowload it to  	C:\Program Files (x86)\Steam\userdata\\300550\local\ugc for Windows or see https://shadowrun.gamepedia.com/Game_File_Locations#Windows_7_.26_8_2. The badnews is this should overwrite your subscribed copy of SR Unlimited. It shouldn't mess up saves though. To get the old SR Unlimited back, just erase this file and resubscribe.  
