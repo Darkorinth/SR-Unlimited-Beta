@@ -1,0 +1,54 @@
+minX: -25
+minZ: -19
+numX: 8
+numZ: 5
+props {
+  name: "hive_floor_dirt08"
+  gridPoint {
+    x: -20
+    y: 0
+    z: -17
+  }
+  orientation: ORIENTATION_S
+  lod: 0
+}
+props {
+  name: "hive_floor_dirt08"
+  gridPoint {
+    x: -20
+    y: 0
+    z: -19
+  }
+  orientation: ORIENTATION_S
+  lod: 0
+}
+props {
+  name: "hive_floor_ventCorner"
+  gridPoint {
+    x: -21
+    y: 0
+    z: -16
+  }
+  orientation: ORIENTATION_S
+  lod: 0
+}
+props {
+  name: "hive_floor_dirt08"
+  gridPoint {
+    x: -23
+    y: 0
+    z: -17
+  }
+  orientation: ORIENTATION_S
+  lod: 0
+}
+props {
+  name: "hive_floor_dirt08"
+  gridPoint {
+    x: -25
+    y: 0
+    z: -17
+  }
+  orientation: ORIENTATION_S
+  lod: 0
+}
